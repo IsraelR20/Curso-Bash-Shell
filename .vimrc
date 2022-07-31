@@ -1,5 +1,5 @@
 set showmode
-set autoident
+set autoindent
 set tabstop=4
 set expandtab
 syntax on 
